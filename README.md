@@ -10,8 +10,8 @@ This repository showcases my journey as a beginner Python programmer. Each proje
 
 Here's a list of projects included in this repository:
 
-1. Project 1 (main.py): A Quiz Game 
-2. Project 2 (Word Counter): A Word And Character Counter
+1. **Project 1 (main.py)**: A Quiz Game 
+2. **Project 2 (Word Counter.py)**: A Word And Character Counter
 
 # Usage
 
