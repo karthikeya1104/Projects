@@ -12,7 +12,7 @@ Here's a list of projects included in this repository:
 
 1. **Project 1 (main.py)**: A Quiz Game 
 2. **Project 2 (Word Counter.py)**: A Word And Character Counter
-3. **Project 3 (Expense Tracker.py)**: An Expense Tracker
+3. **Project 3 (Expense_Tracker)**: An Expense Tracker
 # Usage
 
 To explore the projects in this repository:
