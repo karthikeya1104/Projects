@@ -10,7 +10,7 @@ This repository showcases my journey as a beginner Python programmer. Each proje
 
 Here's a list of projects included in this repository:
 
-1. **Project 1 (main.py)**: A Quiz Game 
+1. **Project 1 (Quiz_Game.py)**: A Quiz Game 
 2. **Project 2 (Word Counter.py)**: A Word And Character Counter
 3. **Project 3 (Expense_Tracker)**: An Expense Tracker
 4. **Project 4 (Password_Generator)**: Password Generator
