@@ -1,10 +1,10 @@
-# Python Projects Repository
+# Python Motioncut Internship
 
-Welcome to my Python Projects Repository! This repository contains a collection of Python projects I've worked on as a beginner programmer.
+Welcome to my Python internship with Motioncut! This repository contains a collection of Python projects I've worked on.
 
 Introduction
 
-This repository showcases my journey as a beginner Python programmer. Each project is a small demonstration of what I've learned and accomplished so far.
+This repository showcases my journey of Python internship with Motioncut. Each project is a small demonstration of what I've learned and accomplished so far.
 
 # Projects
 
